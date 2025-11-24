@@ -1,6 +1,6 @@
 # Data Mining Project – Mall Customers Dataset
 
-**University:** Karaj Islamic Azad University  
+**University:** Islamic Azad University Karaj Branch  
 **Course:** Data Mining – Spring 2024  
 **Instructor:** Dr. Amineh Amini  
 **Author:** Kimia Taslim  
