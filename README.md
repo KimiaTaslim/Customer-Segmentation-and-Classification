@@ -33,7 +33,6 @@ The goal is to extract meaningful patterns about customer behavior through visua
 ## 📊 Results Summary
 - **Best Clustering Method:** Hierarchical (higher Silhouette Score)  
 - **Classification Accuracy:** ~47% overall  
-- **Observation:** The dataset is not ideal for gender classification due to overlapping feature distributions.
 
 ---
 
